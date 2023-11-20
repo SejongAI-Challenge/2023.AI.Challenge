@@ -28,6 +28,7 @@
 | 1 | 오픈 카톡방  |  개별초대완료  |
 | 2 | 캐글 사용법  |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-sample-submission?rvi=1) | [해설영상](https://www.youtube.com/watch?v=LFCOH-s8IF8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY&index=2)|
 | 3 | 연습문제     |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-practice) | [해설영상](https://www.youtube.com/watch?v=3Ke_yQg10m8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY) |
+| 4 | 기출문제     | [링크](https://github.com/SejongAI-Challenge/2023.AI.Challenge/issues/2)  |
 
 
 ## 기타
