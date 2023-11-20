@@ -1,4 +1,4 @@
-# MATLAB과 함께하는 2022 세종AI챌린지
+# MATLAB과 함께하는 2023 세종AI챌린지
 
 ## 두드림 신청
 - [두드림링크](https://do.sejong.ac.kr/ko/program/all/view/3032)
