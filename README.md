@@ -5,7 +5,7 @@
 - 2023년 11월 1일(수) - 2023년 11월 14일(월)
 
 ## 안내문
-- [안내문 PDF]()
+- [안내문 PDF](https://github.com/SejongAI-Challenge/2023.AI.Challenge/blob/main/%E1%84%91%E1%85%A9%E1%84%89%E1%85%B3%E1%84%90%E1%85%A5.jpeg)
 - **챌린지 당일 진행에 관련된 실시간 공지는 아래 오튼카톡방을 통해 이루어질 예정입니다. 오픈카톡방 미참여로 인한 불이익이 있을 수 있으니 모든 신청자는 오픈카톡방에 참여해주시기 바랍니다.**
 
 
@@ -13,8 +13,8 @@
 ### 경시대회 준비 관련
 | | 사전 교육 | 링크 | 기타 | 
 |:--:|:--:|:--:|:--:|
-| 1 | 오픈 카톡방  |  개별초대 | |
-| 2 | 캐글 사용법  |  [바로가기](https://github.com/SejongAI-Challenge/2022.AI.Challenge/issues/1) | |
+| 1 | 오픈 카톡방  |  개별초대완료 | |
+| 2 | 캐글 사용법  |  [바로가기](https://github.com/SejongAI-Challenge/2023.AI.Challenge/issues/1) | |
 
 
 ## 기타
