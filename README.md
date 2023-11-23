@@ -30,6 +30,7 @@
 | 3 | 연습문제     |  [리더보드](https://www.kaggle.com/competitions/sejong-ai-challenge-practice) | [해설영상](https://www.youtube.com/watch?v=3Ke_yQg10m8&list=PLa8kMie0Pc0sSbfQuWKpJ2MVPubHsttXY) |
 | 4 | 기출문제     | [링크](https://github.com/SejongAI-Challenge/2023.AI.Challenge/issues/2)  |
 | 5 | Mathworks 제공 메뉴얼 | [링크](https://kr.mathworks.com/academia/student-competitions/sejong-ai-challenge.html) | |
+| 6| 안내사항 | [링크]() | |
 
 ## 기타
 - 수고해주시는 분들
